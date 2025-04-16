@@ -7,3 +7,5 @@ This repository contains the variations of pre-built templates that are ready an
 - Meta Ad (1:1, 4:5, 9:16)*
 
 *size resolution
+
+<img width="1531" alt="Screenshot 2025-04-16 at 11 06 11 AM" src="https://github.com/user-attachments/assets/cd114973-d4b4-48c0-b647-0c943f369f0a" />
